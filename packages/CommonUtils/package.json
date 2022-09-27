@@ -6,7 +6,8 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bharatpe/utileo"
+    "url": "git://github.com/papun-bharatpe/pc-utelio",
+    "directory": "packages/CommonUtils"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -25,5 +26,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "2933ac5f23827424bffbc2dd8b21c3907bae30fb"
+  "gitHead": "3fa1b00588a481bc9535e4b1a1ce0c8c3d5e78dc"
 }

@@ -1,6 +1,6 @@
 {
   "name": "@pcutils/commonutils",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "private": false,
   "description": "commonutils",
   "main": "index.js",
@@ -25,6 +25,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "gitHead": "3fa1b00588a481bc9535e4b1a1ce0c8c3d5e78dc"
+  }
 }

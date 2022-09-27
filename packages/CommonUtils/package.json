@@ -1,6 +1,7 @@
 {
   "name": "@pcutils/commonutils",
   "version": "0.0.1",
+  "private": false,
   "description": "commonutils",
   "main": "index.js",
   "repository": {
@@ -14,11 +15,15 @@
   "devDependencies": {
     "rollup": "^2.38.5"
   },
-  "author": "",
+  "author": "pc-bp",
   "license": "ISC",
   "dependencies": {
     "rollup-plugin-multi-input": "^1.3.1",
     "rollup-plugin-terser": "^7.0.2",
     "rollup-plugin-typescript2": "^0.34.0"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "2933ac5f23827424bffbc2dd8b21c3907bae30fb"
 }

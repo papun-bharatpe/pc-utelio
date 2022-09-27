@@ -1,6 +1,6 @@
 {
-  "name": "commonutils",
-  "version": "0.0.3",
+  "name": "@pcutils/commonutils",
+  "version": "0.0.0",
   "description": "commonutils",
   "main": "index.js",
   "repository": {

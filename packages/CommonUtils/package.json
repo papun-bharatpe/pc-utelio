@@ -3,7 +3,9 @@
   "version": "1.0.2",
   "private": false,
   "description": "commonutils",
-  "main": "index.js",
+  "main": "index.ts",
+  "module": "index.ts",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git://github.com/papun-bharatpe/pc-utelio",
